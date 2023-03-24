@@ -16,14 +16,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: (https://www.frontendmentor.io/solutions/qr-code-component-using-html-and-css-only-a7Ooj0TOal)
+- Live Site URL: (https://yan-vieira.github.io/projeto-qr-code-component/)
 
 ### Built with
 
@@ -33,5 +31,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- GitHub - [Yan-Vieira](https://github.com/Yan-Vieira)
 - Frontend Mentor - [@Yan-Vieira](https://www.frontendmentor.io/profile/yourusername)
