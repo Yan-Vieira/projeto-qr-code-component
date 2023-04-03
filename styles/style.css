@@ -17,13 +17,20 @@
 
 }
 
-/*------*/
-
 body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     width: 100vw;
     height: 100vh;
+
+    font-family: "Outfit";
+
     background-color: var(--color_2);
 }
+
+/*FROM MAIN*/
 
 main{
     display: flex;
@@ -32,17 +39,8 @@ main{
     max-width: 44vh;
     height: fit-content;
 
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-
     padding: 20px;
     border-radius: 20px;
-    margin: auto;
-
-    font-family: "Outfit";
     text-align: center;
 
     background-color: var(--color_1);
@@ -73,4 +71,16 @@ main p{
     font-size: 15px;
 
     color: var(--color_3);
+}
+
+/*FROM FOOTER*/
+
+footer{
+    margin-top: 20px;
+}
+
+footer a{
+    text-decoration: none;
+
+    color: #A39171;
 }
